@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Leah Wang Consultancy
 
 You can use the [editor on GitHub](https://github.com/leahchristinewang/leahwang/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
